@@ -47,7 +47,7 @@ FPGA Programming
 
 ## Truth Table
 
-| SW0 | SW1 | LED0 |
+|  A  |  B  |  S   |
 | --- | --- | ---- |
 | 0   | 0   | 0    |
 | 0   | 1   | 0    |
