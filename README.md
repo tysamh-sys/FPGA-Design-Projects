@@ -1,3 +1,4 @@
+<img width="720" alt="fpga_board" src="https://github.com/user-attachments/assets/3de4f929-a596-4f0e-be4d-c33b3238710f" />
 # FPGA AND Gate using VHDL
 
 This project demonstrates a simple AND logic gate implemented on a Xilinx FPGA board using VHDL and Xilinx ISE Design Suite.
